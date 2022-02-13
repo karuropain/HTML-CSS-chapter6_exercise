@@ -5,15 +5,34 @@
   box-sizing: border-box;
 }
 
-.main-visual {
+.main-visual-box1 {
   width: 100%; /* 横幅いっぱい */
-  height: 300px; /* 高さ300px */
+  height: 200px; /* 高さ300px */
   background-image: url(img/box1.jpg);
-  background-image: url(img/box2.jpg);
-  background-image: url(img/box3.jpg);
-  background-image: url(img/box4.jpg);
   background-size: cover;
   background-position: center;
 }
 
+.main-visual-box2 {
+  width: 100%; /* 横幅いっぱい */
+  height: 200px; /* 高さ300px */
+  background-image: url(img/box2.jpg);
+  background-size: cover;
+  background-position: center;
+}
 
+.main-visual-box3 {
+  width: 100%; /* 横幅いっぱい */
+  height: 200px; /* 高さ300px */
+  background-image: url(img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.main-visual-box4 {
+  width: 100%; /* 横幅いっぱい */
+  height: 200px; /* 高さ300px */
+  background-image: url(img/box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
